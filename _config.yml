@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dongjing Wang"
   avatar           : "profile.png"
-  bio              : "Lecturer@HDU
+  bio              : "Lecturer@HDU"
   location         : "Hanghzou, Zhejiang, China"
-  employer         : [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/en/)
+  employer         : "[Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/en/)"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=en"
-  email            : Dongjing.Wang(at)hdu.edu.cn
+  email            : "Dongjing.Wang(at)hdu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Dongjing-Wang-2"
   # DBLP: "https://dblp.org/pid/121/4337.html"
   # Semantic Scholar: "https://www.semanticscholar.org/author/2940191"
@@ -105,8 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/
-0000-0003-2152-0446"
+  orcid            : "https://orcid.org/0000-0003-2152-0446"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
