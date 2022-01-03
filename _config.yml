@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dongjing Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dongjing Wang 王东京"
 description              : &description "personal description"
 url                      : https://dongjingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
