@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dongjing Wang / Homepage"
+title                    : "Dongjing Wang / Homepages"
 title_separator          : "-"
 name                     : &name "Dongjing Wang 王东京"
 description              : &description "personal description"
