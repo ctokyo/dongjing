@@ -18,6 +18,8 @@ My research interests are mainly focusing on Recommender systems, data mining an
 Selected Publications
 ======
 
+Full publications: [Google scholar](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [DBLP](https://dblp.org/pid/121/4337.html), [Semantic Scholar](https://www.semanticscholar.org/author/2940191)
+
 - **王东京**, 刘继涛, 俞东进\*. 基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究[J]. *软件学报*.（Accepted）
 - **Dongjing Wang**, Xingliang Wang, Zhengzhe Xiang, Dongjin Yu\*, Shuiguang Deng, Guandong Xu. Attentive sequential model based on graph neural network for next poi recommendation. *World Wide Web* 24, 2161–2184 (2021). 
 - **Dongjing Wang**, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation. *IEEE Transactions on Multimedia*. 2021.
