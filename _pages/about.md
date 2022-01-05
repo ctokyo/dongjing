@@ -33,7 +33,7 @@ Full publications: [Google scholar](https://scholar.google.com/citations?user=D1
 - **Dongjing Wang**, Shuiguang Deng, Xin Zhang, Guandong Xu. Learning Music Embedding with Metadata for Context Aware Recommendation. *Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval (ICMR 2016)*: 249-253.
 - **Dongjing Wang**, Shuiguang Deng, Songguo Liu, Guandong Xu. Improving Music Recommendation Using Distributed Representation. *Proceedings of the 25th International Conference Companion on World Wide Web (WWW 2016)* : 125-126. (Best paper Nomination)
 - Shuiguang Deng\*, **Dongjing Wang**, Xitong Li, Guandong Xu. Exploring User Emotion in Microblogs for Music Recommendation. *Expert Systems with Applications*, Volume 42, Issue 23, 15 December 2015, Pages 9284-9293.
-- Shuiguang Deng\*, **Dongjing Wang**, Ying Li, Bin Cao, Jianwei Yin, Zhaohui Wu, Mengchu Zhou. A Recommendation System to Facilitate Business Process Modeling. IEEE Transactions on Cybernetics, 2016. 
+- Shuiguang Deng\*, **Dongjing Wang**, Ying Li, Bin Cao, Jianwei Yin, Zhaohui Wu, Mengchu Zhou. A Recommendation System to Facilitate Business Process Modeling. *IEEE Transactions on Cybernetics*, 2016. 
 - **王东京**，邓水光\*，曹斌，尹建伟，熊丽荣. JTangWFR: 一个高效可靠的流程推荐系统. *计算机集成制造系统* 19(8), 2013. 
 
 
