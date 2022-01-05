@@ -9,18 +9,28 @@ redirect_from:
 ---
 
 I am currently a Lecturer with the [DBSI Lab](http://dbsi.hdu.edu.cn/), [School of Compter Science and Technology](https://computer.hdu.edu.cn/computer_en/) at [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/en/), Hangzhou, China. 
-Prior to that, I got my Ph.D degree from [Zhejiang University](https://www.zju.edu.cn/english/) in Jun., 2018, under the supervision of [Prof. Shuiguang Deng](https://person.zju.edu.cn/shuiguang). 
+Prior to that, I got my Ph.D degree and B.S. degree from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018 and 2012, under the supervision of [Prof. Shuiguang Deng](https://person.zju.edu.cn/shuiguang). I have been visiting University of Technology Sydney, Australia (working with [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu)) during Mar., 2016 to Mar., 2017.
 
 My research interests are mainly focusing on Recommender systems, data mining and machine learning.
 
-I have been visiting University of Technology Sydney, Australia (working with [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu)) during Mar., 2016 to Mar., 2017.
 
 
-
-About Mexxxxxxxxx
+Selected Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://dongjingwang.github.io/talkmap.html).
-
+- **王东京**, 刘继涛, 俞东进*. 基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究[J]. *软件学报*.（Accepted）
+- **Dongjing Wang**, Xingliang Wang, Zhengzhe Xiang, Dongjin Yu*, Shuiguang Deng, Guandong Xu. Attentive sequential model based on graph neural network for next poi recommendation. *World Wide Web* 24, 2161–2184 (2021). 
+- **Dongjing Wang**, Xin Zhang*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation. *IEEE Transactions on Multimedia*. 2021.
+- **Dongjing Wang**, Xin Zhang*, Zhengzhe Xiang, Dongjin Yu, Guandong Xu, Shuiguang Deng. Sequential Recommendation Based on Multivariate Hawkes Process Embedding With Attention. *IEEE Transactions on Cybernetics* 2021.
+- Jianqing Zhang, **Dongjing Wang***, Dongjin Yu. TLSAN: Time-aware Long-and Short-term Attention Network for Next-item Recommendation. Neurocomputing 441, 179-19202.
+- **Dongjing Wang***, Xin Zhang, Dongjin Yu, Guandong Xu, Shuiguang Deng. CAME: Contentand Context-Aware Music Embedding for Recommendation. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 1375-1388.
+- **Dongjing Wang**, Dengwei Xu, Dongjin Yu*, Guandong Xu, Time-aware sequence model for next-item recommendation, *Applied Intelligence*, 51 (2), 906-920. 2021.
+- Dongjin Yu, Kaihui Xu, **Dongjing Wang**. Modeling User Contextual Behavior Semantics with Geographical Influence for Point-Of-Interest Recommendation. *The 31st International Conference on Software Engineering and Knowledge Engineering, {SEKE} 2019*. (Best Paper Award: Third Place)
+- **Dongjing Wang**, Shuiguang Deng*, Xin Zhang, Guandong Xu. Learning to Embed Music and Metadata for Context-Aware Music Recommendation. *World Wide Web Journal*. 2018.
+- **Dongjing Wang**, Shuiguang Deng*, Guandong Xu. Sequence-based Context-aware Music Recommendation. *Information Retrieval Journal*. 2018.
+- **Dongjing Wang**, Shuiguang Deng, Xin Zhang, Guandong Xu. Learning Music Embedding with Metadata for Context Aware Recommendation. *Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval (ICMR 2016)*: 249-253.
+- **Dongjing Wang**, Shuiguang Deng, Songguo Liu, Guandong Xu. Improving Music Recommendation Using Distributed Representation. *Proceedings of the 25th International Conference Companion on World Wide Web (WWW 2016)* : 125-126. (Best paper Nomination)
+- Shuiguang Deng*, **Dongjing Wang**, Xitong Li, Guandong Xu. Exploring User Emotion in Microblogs for Music Recommendation. *Expert Systems with Applications*, Volume 42, Issue 23, 15 December 2015, Pages 9284-9293.
+- Shuiguang Deng, **Dongjing Wang**, Ying Li, Bin Cao, Jianwei Yin, Zhaohui Wu, Mengchu Zhou. A Recommendation System to Facilitate Business Process Modeling. IEEE Transactions on Cybernetics, 2016. 
+- **王东京**，邓水光，曹斌，尹建伟，熊丽荣. JTangWFR: 一个高效可靠的流程推荐系统. *计算机集成制造系统* 19(8), 2013. 
 
