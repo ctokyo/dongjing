@@ -9,17 +9,16 @@ author_profile: true
 
 ## 2021
 * <b>Gated Three-Tower Transformer for Text-Driven Stock Market Prediction</b>. 
-<br> Jia Chen, Tao Chen, Mengqi Shen, Yunhai Shi, <b>Dongjing Wang</b>, Xin Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. <br>
+<br> Jia Chen, Tao Chen, Mengqi Shen, Yunhai Shi, <b>Dongjing Wang</b> and Xin Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. (Accepted) <br>
 
-* <b>Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning</b>. 
-<br> Xinghua Zhang, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Jiawei Sheng, Xue Mengge and Hongbo Xu. <i>In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2021**, CCF-B)</i>. <br>
+* <b>[Research on Trajectory Simplification Based on Kalman Filtering and Adaptive Map Matching Algorithm for Electric Bicycle (基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究)](http://www.jos.org.cn/jos/article/abstract/La006)</b>. 
+<br> <b>Dongjing Wang</b>, Jitao Liu and Dongjin Yu. <i>Journal of Software (软件学报) </i>. (Accepted) <br>
 
+* <b>Attentive sequential model based on graph neural network for next poi recommendation</b>. 
+<br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i> World Wide Web 24, 2161–2184 (2021) (CCF-B)</i>. <br>
 
-* <b>Discontinuous Named Entity Recognition as Maximal Clique Discovery</b>. 
-<br> Yucheng Wang\*, <b>Bowen Yu\*(Equal Contribution)</b>, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. <i>In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 21.3%, 3350 submissions)</i>. <br>
-
-* <b>From What to Why: Improving Relation Extraction with Rationale Graph</b>. 
-<br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+* <b>Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation</b>. 
+<br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
 
 * <b>CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction</b>. 
 <br> Jiawei Sheng, Shu Guo, <b>Bowen Yu</b>, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
@@ -113,7 +112,7 @@ Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>a
 [[Code]](https://github.com/yubowen-ph/segment)
 [[Slides]](https://yubowen-ph.github.io/files/2019_IJCAI_SA/SA_Oral.pdf)
 
-
+# refer to https://yubowen-ph.github.io/publications/
 
 
 #---
