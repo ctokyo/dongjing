@@ -1,6 +1,6 @@
 
 ---
-title: "Publications([Google scholar](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN))"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
