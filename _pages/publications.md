@@ -48,7 +48,7 @@ author_profile: true
 ## 2020
 
 * <b> Citation Count Prediction Based on Neural Hawkes Model </b>. 
-<br> Lisha Liu, Dongjin Yu\*, <b> Dongjing Wang <\b>, Fumiyo Fukumoto\*. <i>IEICE Transactions on Information and Systems*, 2020, 103(11): 2379-2388</i>.  <br>
+<br> Lisha Liu, Dongjin Yu\*, <b> Dongjing Wang </b>, Fumiyo Fukumoto\*. <i>IEICE Transactions on Information and Systems*, 2020, 103(11): 2379-2388</i>.  <br>
 
 * <b> Activate Cost-Effective Mobile Crowd Sensing with Multi-access Edge Computing </b>. 
 <br> dongjing. <i>International Conference on Communications and Networking in China 2020: 78-97(Best paper award)</i>.  <br>
