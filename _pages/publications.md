@@ -11,14 +11,15 @@ author_profile: true
 * <b>Gated Three-Tower Transformer for Text-Driven Stock Market Prediction</b>. 
 <br> Jia Chen, Tao Chen, Mengqi Shen, Yunhai Shi, <b>Dongjing Wang</b> and Xin Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. (Accepted) <br>
 
-* <b>[Research on Trajectory Simplification Based on Kalman Filtering and Adaptive Map Matching Algorithm for Electric Bicycle (基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究)](http://www.jos.org.cn/jos/article/abstract/La006)</b>. 
-<br> <b>Dongjing Wang</b>, Jitao Liu and Dongjin Yu. <i>Journal of Software (软件学报) </i>. (Accepted) <br>
+* <b>Research on Trajectory Simplification Based on Kalman Filtering and Adaptive Map Matching Algorithm for Electric Bicycle (基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究)</b>. 
+<br> <b>Dongjing Wang</b>, Jitao Liu and Dongjin Yu. <i>Journal of Software (软件学报) </i>. (Accepted)
+[[Link]](http://www.jos.org.cn/jos/article/abstract/La006) <br>
 
 * <b>Attentive sequential model based on graph neural network for next poi recommendation</b>. 
 <br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i> World Wide Web 24, 2161–2184 (2021) (CCF-B)</i>. <br>
 
 * <b>[Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation](10.1109/TMM.2021.3114545)</b>. 
-<br> <b>Dongjing Wang</b>, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. <i>IEEE Transactions on Multimedia (**TMM**, CCF-B, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+<br> <b>Dongjing Wang</b>, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. <i>IEEE Transactions on Multimedia (**TMM**, CCF-B, JCR Q1)</i>. <br>
 
 * <b>CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction</b>. 
 <br> Jiawei Sheng, Shu Guo, <b>Bowen Yu</b>, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
@@ -112,24 +113,4 @@ Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>a
 [[Code]](https://github.com/yubowen-ph/segment)
 [[Slides]](https://yubowen-ph.github.io/files/2019_IJCAI_SA/SA_Oral.pdf)
 
-# refer to https://yubowen-ph.github.io/publications/
-
-
-<!--
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
+<!-- refer to https://yubowen-ph.github.io/publications/-->
