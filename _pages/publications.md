@@ -17,8 +17,8 @@ author_profile: true
 * <b>Attentive sequential model based on graph neural network for next poi recommendation</b>. 
 <br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i> World Wide Web 24, 2161–2184 (2021) (CCF-B)</i>. <br>
 
-* <b>Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation</b>. 
-<br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+* <b>[Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation](10.1109/TMM.2021.3114545)</b>. 
+<br> <b>Dongjing Wang</b>, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. <i>IEEE Transactions on Multimedia (**TMM**, CCF-B, acceptance rate 14.9%, 3350 submissions)</i>. <br>
 
 * <b>CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction</b>. 
 <br> Jiawei Sheng, Shu Guo, <b>Bowen Yu</b>, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
@@ -115,19 +115,21 @@ Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>a
 # refer to https://yubowen-ph.github.io/publications/
 
 
-#---
-##layout: archive
-##title: "Publications"
-##permalink: /publications/
-##author_profile: true
-##---
-##
-##{% if author.googlescholar %}
-##  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-##{% endif %}
-##
-##{% include base_path %}
-##
-##{% for post in site.publications reversed %}
-##  {% include archive-single.html %}
-#{% endfor %}
+<!--
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
