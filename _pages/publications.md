@@ -1,5 +1,5 @@
 ---
-title: "Publications [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN)), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191)"
+title: "Publications [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191)"
 permalink: /publications/
 author_profile: true
 ---
@@ -112,6 +112,6 @@ author_profile: true
 
 
 
-Please refer to [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN)), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191) for full publications.
+Please refer to [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191) for full publications.
 
 <!-- refer to https://yubowen-ph.github.io/publications/-->
