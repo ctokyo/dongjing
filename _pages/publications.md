@@ -15,7 +15,7 @@ author_profile: true
 [[Link]](http://www.jos.org.cn/jos/article/abstract/La006) <br>
 
 * <b>Attentive sequential model based on graph neural network for next poi recommendation</b>. 
-<br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i> World Wide Web 24, 2161–2184 (2021) (CCF-B)</i>. <br>
+<br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i> World Wide Web 24, 2161–2184 (2021) (CCF-B)</i>. [[code]](https://github.com/HduDBSI/ASGNN) <br>
 
 * <b>Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation</b>. 
 <br> <b>Dongjing Wang</b>, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu and Shuiguang Deng. <i>IEEE Transactions on Multimedia 2021 (**TMM**, CCF-B, JCR Q1)</i>. [[Link]](https://doi.org/10.1109/TMM.2021.3114545) <br>
@@ -24,17 +24,17 @@ author_profile: true
 <br> <b>Dongjing Wang</b>, Xin Zhang\*, Zhengzhe Xiang, Dongjin Yu, Guandong Xu and Shuiguang Deng. <i>IEEE Transactions on Cybernetics 2021 (**TCYB**, CCF-B, JCR Q1)</i>. <br>
 
 * <b>TLSAN: Time-aware Long-and Short-term Attention Network for Next-item Recommendation</b>. 
-<br> Jianqing Zhang, <b> Dongjing Wang</b>\* and Dongjin Yu. <i>Neurocomputing 441, 179-191, 2021 (CCF-C)</i>. <br>
+<br> Jianqing Zhang, <b> Dongjing Wang</b>\* and Dongjin Yu. <i>Neurocomputing 441, 179-191, 2021 (CCF-C)</i>. [[code]](https://github.com/TsingZ0/TLSAN) <br>
 
 
 * <b>Leveraging contextual influence and user preferences for point-of-interest recommendation</b>. 
-<br>  Dongjin Yu, Wenbo Wanyan and <b> Dongjing Wang</b>\*. <i>Multimedia Tools and Applications* 80 (1), 1487-150 (**MTAP 2021**, CCF-C)</i>. <br>
+<br>  Dongjin Yu, Wenbo Wanyan and <b> Dongjing Wang</b>\*. <i>Multimedia Tools and Applications* 80 (1), 1487-150 (**MTAP 2021**, CCF-C)</i>. [[code]](http://dbsi.hdu.edu.cn/CPAM/) <br>
 
 * <b>CAME: Contentand Context-Aware Music Embedding for Recommendation</b>. 
 <br> <b>Dongjing Wang</b>\*, Xin Zhang, Dongjin Yu, Guandong Xu and Shuiguang Deng. <i>IEEE Transactions on Neural Networks and Learning Systems 32(3): 1375-1388 (**TNNLS 2021**, CCF-B)</i>.  <br>
 
 * <b> Time-aware sequence model for next-item recommendation </b>. 
-<br> <b> Dongjing Wang</b>, Dengwei Xu, Dongjin Yu\*, Guandong Xu. <i>Applied Intelligence, 51 (2), 906-920, 2021</i>.  <br>
+<br> <b> Dongjing Wang</b>, Dengwei Xu, Dongjin Yu\*, Guandong Xu. <i>Applied Intelligence, 51 (2), 906-920, 2021</i>.  [[code]](https://github.com/vallzey/IDLSTM) <br>
 
 * <b> Energy-effective artificial internet-of-things application deployment in edge-cloud systems </b>. 
 <br> Zhengzhe Xiang, Yuhang Zheng, Mengzhu He, Longxiang Shi, <b>Dongjing Wang</b>, Shuiguang Deng, Zengwei Zheng. <i>Peer-to-Peer Networking and Applications (**PPNA 2021**, CCF-C)</i>.  <br>
@@ -58,10 +58,10 @@ author_profile: true
 ## 2019
 
 * <b> Modeling User Contextual Behavior Semantics with Geographical Influence for Point-Of-Interest Recommendation </b>. 
-<br> Dongjin Yu, Kaihui Xu, <b> Dongjing Wang</b>. <i>The 31st International Conference on Software Engineering and Knowledge Engineering (**SEKE 2019**, CCF-C, Best Paper Award: Third Place)</i>.  <br>
+<br> Dongjin Yu, Kaihui Xu, <b> Dongjing Wang</b>. <i>The 31st International Conference on Software Engineering and Knowledge Engineering (**SEKE 2019**, CCF-C, Best Paper Award: Third Place)</i>. [[code]](https://github.com/Skyexu/HeteGeoRankRec) <br>
 
 
-* <b> Point-of-interest recommendation based on user contextual behavior semantics, </b>. 
+* <b> Point-of-interest recommendation based on user contextual behavior semantics </b>. 
 <br> Dongjin Yu\*, Kaihui Xu, <b>Dongjing Wang</b>, Ting Yu and Wanqing Li. <i>International Journal of Software Engineering and Knowledge Engineering 29(11n12): 1781-1799 (**IJCSKE 2019**, CCF-C)</i>.  <br>
 
 
