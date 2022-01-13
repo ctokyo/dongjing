@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2021
 * <b>Artificial Intelligence and Pattern Recognition (人工智能与模式识别)</b>. 
-<br> 2020~2021-2 <i>Postgraduate</i>. <br>
+<br> Dongjing Wang, Hangzhou Dianzi University, 2020~2021-2 <i>Postgraduate</i>. <br>
 
 * <b>Computer Organization (Python与人工智能)</b>. 
 <br> 2020~2021-2 <i>Undergraduate</i>. <br>
