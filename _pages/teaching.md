@@ -71,9 +71,3 @@ author_profile: true
 * <b>Digital Design and Computer Organization (数字设计与计算机组成)</b>. 
 <br> 2019~2020-1 <i>Undergraduate</i>. <br>
 
-<!--{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
