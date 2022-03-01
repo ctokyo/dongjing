@@ -6,15 +6,14 @@ author_profile: true
 <!--上述代码必须从第一行开始-->
 
 
-# Book
-## 2022
+## Book
+### 2022
 * <b>Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）</b>. 
-<br> Dongjin Yu, Xiaoxiao Sun and <b>Dongjing Wang</b> and Xin Zhang\*. <i>科学出版社</i>. ISBN：9787030714473. 2022-01-01. <br>
+<br> Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and <b>Dongjing Wang (王东京)</b>. <i>科学出版社</i>. ISBN：9787030714473. 2022-01-01. <br>
 
 
-# Research Paper
-
-## 2021
+## Research Paper
+### 2021
 * <b>Gated Three-Tower Transformer for Text-Driven Stock Market Prediction</b>. 
 <br> Jia Chen, Tao Chen, Mengqi Shen, Yunhai Shi, <b>Dongjing Wang</b> and Xin Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. (Accepted) <br>
 
@@ -53,7 +52,7 @@ author_profile: true
 * <b> Zengwei Zheng, Yuhang Zheng, <b>Dongjing Wang</b>, Hailiang Zhao, Cheng Zhang, Zhengzhe Xiang</b>. 
 <br> dongjing. <i>IEEE International Conference on Services Computing (**SCC 2021**, CCF-C)</i>.  <br>
 
-## 2020
+### 2020
 
 * <b> Citation Count Prediction Based on Neural Hawkes Model</b>. 
 <br> Lisha Liu, Dongjin Yu\*, <b> Dongjing Wang</b>, Fumiyo Fukumoto\*. <i>IEICE Transactions on Information and Systems*, 2020, 103(11): 2379-2388</i>.  <br>
@@ -63,7 +62,7 @@ author_profile: true
 
 
 
-## 2019
+### 2019
 
 * <b> Modeling User Contextual Behavior Semantics with Geographical Influence for Point-Of-Interest Recommendation</b>. 
 <br> Dongjin Yu, Kaihui Xu, <b> Dongjing Wang</b>. <i>The 31st International Conference on Software Engineering and Knowledge Engineering (**SEKE 2019**, CCF-C, Best Paper Award: Third Place)</i>. [[code]](https://github.com/Skyexu/HeteGeoRankRec) <br>
@@ -76,7 +75,7 @@ author_profile: true
 * <b> Characterization and prediction of popular projects on github</b>. 
 <br> dongjing. <i>IEEE 43rd annual computer software and applications conference (COMPSAC) 2019: 21-26 (**COMPSAC 2019**, CCF-C)</i>.  <br>
 
-## 2018 
+### 2018 
 
 * <b> Learning to Embed Music and Metadata for Context-Aware Music Recommendation</b>. 
 <br> <b>Dongjing Wang</b>, Shuiguang Deng\*, Xin Zhang and Guandong Xu. <i>World Wide Web (2018) 21:1399 – 1423 (CCF-B)</i>.  <br>
@@ -86,7 +85,7 @@ author_profile: true
 
 
 
-## 2017 and before
+### 2017 and before
 
 * <b> Music Recommendation via Heterogeneous Information Graph Embedding</b>. 
 <br> <b>Dongjing Wang</b>, Shuiguang Deng and Guandong Xu. <i> International Joint Conference on Neural Networks (**IJCNN 2017**, CCF-C)</i>.  <br>

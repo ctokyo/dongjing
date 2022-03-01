@@ -19,12 +19,11 @@ Selected Publications
 ======
 Full publications: [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191)
 
-# Book
-## 2022
+## Book
 * <b>Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）</b>. 
-<br> Dongjin Yu, Xiaoxiao Sun and <b>Dongjing Wang</b> and Xin Zhang\*. <i>科学出版社</i>. ISBN：9787030714473. 2022-01-01. <br>
+<br> Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and <b>Dongjing Wang (王东京)</b>. <i>科学出版社</i>. ISBN: 9787030714473. 2022-01-01. <br>
 
-# Research Paper
+## Research Paper
 - **王东京**, 刘继涛, 俞东进\*. 基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究[J]. *软件学报*.（Accepted）[[link]](http://www.jos.org.cn/jos/article/abstract/La006)
 - **Dongjing Wang**, Xingliang Wang, Zhengzhe Xiang, Dongjin Yu\*, Shuiguang Deng, Guandong Xu. Attentive sequential model based on graph neural network for next poi recommendation. *World Wide Web* 24, 2161–2184 (2021). [[code]](https://github.com/HduDBSI/ASGNN)
 - **Dongjing Wang**, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation. *IEEE Transactions on Multimedia*. 2021.
@@ -40,7 +39,3 @@ Full publications: [[Google scholar]](https://scholar.google.com/citations?user=
 - Shuiguang Deng\*, **Dongjing Wang**, Xitong Li, Guandong Xu. Exploring User Emotion in Microblogs for Music Recommendation. *Expert Systems with Applications*, Volume 42, Issue 23, 15 December 2015, Pages 9284-9293.
 - Shuiguang Deng\*, **Dongjing Wang**, Ying Li, Bin Cao, Jianwei Yin, Zhaohui Wu, Mengchu Zhou. A Recommendation System to Facilitate Business Process Modeling. *IEEE Transactions on Cybernetics*, 2016. 
 - **王东京**, 邓水光\*, 曹斌, 尹建伟, 熊丽荣. Efficient and reliable process recommendation system-jtangwfr (JTangWFR: 一个高效可靠的流程推荐系统). *Computer Integrated Manufacturing Systems (计算机集成制造系统)* 19(8), 2013. 
-
-
-
-
