@@ -20,8 +20,7 @@ Selected Publications
 Full publications: [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191)
 
 ## Book
-* <b>Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）</b>. 
-<br> Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and <b>Dongjing Wang (王东京)</b>. <i>SCIENCE PRESS (科学出版社)</i>. ISBN: 9787030714473. 2022-01-01. <br>
+- Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and **Dongjing Wang (王东京)**. Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）. *SCIENCE PRESS (科学出版社)*. ISBN: 9787030714473. 2022-01-01. [[link]](https://item.jd.com/13621500.html)
 
 ## Research Paper
 - **王东京**, 刘继涛, 俞东进\*. 基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究[J]. *软件学报*.（Accepted）[[link]](http://www.jos.org.cn/jos/article/abstract/La006)

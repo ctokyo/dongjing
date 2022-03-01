@@ -9,7 +9,7 @@ author_profile: true
 ## Book
 ### 2022
 * <b>Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）</b>. 
-<br> Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and <b>Dongjing Wang (王东京)</b>. <i>SCIENCE PRESS (科学出版社)</i>. ISBN: 9787030714473. 2022-01-01. <br>
+<br> Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and <b>Dongjing Wang (王东京)</b>. <i>SCIENCE PRESS (科学出版社)</i>. ISBN: 9787030714473. 2022-01-01. [[link]](https://item.jd.com/13621500.html) <br>
 
 
 ## Research Paper
