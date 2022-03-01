@@ -6,6 +6,14 @@ author_profile: true
 <!--上述代码必须从第一行开始-->
 
 
+# Book
+## 2022
+* <b>Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）</b>. 
+<br> Dongjin Yu, Xiaoxiao Sun and <b>Dongjing Wang</b> and Xin Zhang\*. <i>科学出版社</i>. ISBN：9787030714473. 2022-01-01. <br>
+
+
+# Research Paper
+
 ## 2021
 * <b>Gated Three-Tower Transformer for Text-Driven Stock Market Prediction</b>. 
 <br> Jia Chen, Tao Chen, Mengqi Shen, Yunhai Shi, <b>Dongjing Wang</b> and Xin Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. (Accepted) <br>
