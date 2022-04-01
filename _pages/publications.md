@@ -13,7 +13,10 @@ author_profile: true
 
 
 ## Research Paper
-### 2021
+### 2022
+* <b>A Multi-level Feature Integration Network for Image Inpainting</b>. 
+<br> Tao Chen, Xin Zhang\*, Bernd Hamann, <b>Dongjing Wang</b> and Hua Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. (Accepted) <br>
+
 * <b>Gated Three-Tower Transformer for Text-Driven Stock Market Prediction</b>. 
 <br> Jia Chen, Tao Chen, Mengqi Shen, Yunhai Shi, <b>Dongjing Wang</b> and Xin Zhang\*. <i>Multimedia Tools and Applications (**MTAP**, CCF-C)</i>. (Accepted) <br>
 
@@ -21,6 +24,8 @@ author_profile: true
 <br> <b>Dongjing Wang</b>, Jitao Liu and Dongjin Yu. <i>Journal of Software (软件学报) </i>. (Accepted)
 [[Link]](http://www.jos.org.cn/jos/article/abstract/La006) <br>
 
+
+### 2021
 * <b>Attentive sequential model based on graph neural network for next poi recommendation</b>. 
 <br> <b>Dongjing Wang</b>, Xin Zhang, Yao Wan, Dongjin Yu\*, Guandong Xu, Shuiguang Deng. <i> World Wide Web 24, 2161–2184 (2021) (CCF-B)</i>. [[code]](https://github.com/HduDBSI/ASGNN) <br>
 

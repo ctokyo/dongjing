@@ -13,7 +13,7 @@ Prior to that, I got my Ph.D degree and B.S. degree from [Zhejiang University](h
 
 My research interests are mainly focusing on Recommender systems, data mining and machine learning.
 
-
+[中文主页](http://faculty.hdu.edu.cn/jsjxy/wdj/main.htm)
 
 Selected Publications
 ======
