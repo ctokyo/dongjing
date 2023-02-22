@@ -11,7 +11,11 @@ redirect_from:
 I am currently a Lecturer with the [DBSI Lab](http://dbsi.hdu.edu.cn/), [School of Compter Science and Technology](https://computer.hdu.edu.cn/computer_en/) at [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/en/), Hangzhou, China. 
 Prior to that, I got my Ph.D degree and B.S. degree from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018 and 2012, under the supervision of [Prof. Shuiguang Deng](https://person.zju.edu.cn/shuiguang). I have been visiting University of Technology Sydney, Australia (working with [Prof. Guandong Xu](https://profiles.uts.edu.au/Guandong.Xu)) during Mar., 2016 to Mar., 2017.
 
-My research interests are mainly focusing on Recommender systems, data mining and machine learning.
+My research interests are mainly focusing on Recommender Systems, Data Mining and Machine Learning. Welcome all students interested in these research topics to join my research team!
+欢迎对推荐系统、数据挖掘和机器学习方向感兴趣的同学加入课题组！
+Email address: dongjing.wang[at]hdu.edu.cn
+
+欢迎报考大数据研究院2023级硕士研究生！详情请见 http://dbsi.hdu.edu.cn/notice/3683.jhtml
 
 [中文主页](http://faculty.hdu.edu.cn/jsjxy/wdj/main.htm)
 
@@ -22,8 +26,8 @@ Full publications: [[Google scholar]](https://scholar.google.com/citations?user=
 ## Book
 - Dongjin Yu (俞东进), Xiaoxiao Sun (孙笑笑) and **Dongjing Wang (王东京)**. Big Data: Foundation, Technique, and Application（大数据：基础、技术与应用）. *SCIENCE PRESS (科学出版社)*. ISBN: 9787030714473. 2022-01-01. [[link]](https://item.jd.com/13621500.html)
 
-## Research Paper
-- **王东京**, 刘继涛, 俞东进\*. 基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究[J]. *软件学报*.（Accepted）[[link]](http://www.jos.org.cn/jos/article/abstract/La006)
+## Selected Research Paper
+- **王东京**, 刘继涛, 俞东进\*. 基于卡尔曼滤波的电动自行车轨迹简化与自适应地图匹配算法研究[J]. *软件学报*.（2023）[[link]](http://www.jos.org.cn/jos/article/abstract/La006)
 - **Dongjing Wang**, Xingliang Wang, Zhengzhe Xiang, Dongjin Yu\*, Shuiguang Deng, Guandong Xu. Attentive sequential model based on graph neural network for next poi recommendation. *World Wide Web* 24, 2161–2184 (2021). [[code]](https://github.com/HduDBSI/ASGNN)
 - **Dongjing Wang**, Xin Zhang\*, Yao Wan, Dongjin Yu, Guandong Xu, Shuiguang Deng. Modeling Sequential Listening Behaviors with Attentive Temporal Point Process for Next and Next New Music Recommendation. *IEEE Transactions on Multimedia*. 2021.
 - **Dongjing Wang**, Xin Zhang\*, Zhengzhe Xiang, Dongjin Yu, Guandong Xu, Shuiguang Deng. Sequential Recommendation Based on Multivariate Hawkes Process Embedding With Attention. *IEEE Transactions on Cybernetics* 2021.
