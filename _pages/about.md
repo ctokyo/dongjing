@@ -17,7 +17,7 @@ Prior to that, I got my Ph.D degree and B.S. degree from [Zhejiang University](h
 
 Email address: dongjing.wang[at]hdu.edu.cn
 
-**欢迎报考大数据研究院2023级硕士研究生！详情请见 [[link]](http://dbsi.hdu.edu.cn/notice/3683.jhtml)**
+[[欢迎报考大数据研究院2023级硕士研究生！]](http://dbsi.hdu.edu.cn/notice/3683.jhtml)
 
 [中文主页](http://faculty.hdu.edu.cn/jsjxy/wdj/main.htm)
 
