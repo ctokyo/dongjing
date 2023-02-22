@@ -15,7 +15,7 @@ Prior to that, I got my Ph.D degree and B.S. degree from [Zhejiang University](h
 
 **欢迎对推荐系统、数据挖掘和机器学习方向感兴趣的同学加入课题组！**
 
-Email address: dongjing.wang[at]hdu.edu.cn
+**Email address: dongjing.wang[at]hdu.edu.cn**
 
 [中文主页](http://faculty.hdu.edu.cn/jsjxy/wdj/main.htm){:target="_blank"}
 
