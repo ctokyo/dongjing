@@ -1,10 +1,11 @@
 ---
-title: "Publications [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191)"
+title: "Full Publications [[Google scholar]](https://scholar.google.com/citations?user=D1_RC_kAAAAJ&hl=zh-CN), [[DBLP]](https://dblp.org/pid/121/4337.html), [[Semantic Scholar]](https://www.semanticscholar.org/author/2940191)"
 permalink: /publications/
 author_profile: true
 ---
 <!--上述代码必须从第一行开始-->
 
+# Selected publications:
 
 ## Book
 ### 2022
